@@ -1,2 +1,2 @@
 # solved
-This repository is for the problems that I solved
+This is a repository where I store the solves of some programming challenges
