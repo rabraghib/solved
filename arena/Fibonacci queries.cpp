@@ -6,7 +6,7 @@ int fibonacci(int N){
 	int res;
 	if (N <= 1)
 		return N;
-	res = fibonacci(N - 1) + fibonacci(N - 2);
+	res = (fibonacci(N - 1) + fibonacci(N - 2)) % 1000000007;
 	return res;
 }
 
