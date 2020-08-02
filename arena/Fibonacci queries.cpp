@@ -16,7 +16,6 @@ int main()
 	cin >> Q;
 	for (int i = 0; i < Q; i++)
 	{
-		int N;
 		cin >> N;
 		cout << fibonacci(N) << endl;
 	}
