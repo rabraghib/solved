@@ -1,22 +1,28 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-int fibonacci(int N){
+int fibonacci(int N, vector<int>* memory)
+{
 	int res;
 	if (N <= 1)
 		return N;
-	res = (fibonacci(N - 1) + fibonacci(N - 2)) % 1000000007;
-	return res;
+	if (!memory->at(N)){
+		res = (fibonacci(N - 1,memory) + fibonacci(N - 2,memory)) % 1000000007;
+		memory->at(N) = res;
+	}
+	return memory->at(N);
 }
 
 int main()
 {
 	int Q, N;
+	vector<int> memory(10000000);
 	cin >> Q;
 	for (int i = 0; i < Q; i++)
 	{
 		cin >> N;
-		cout << fibonacci(N) << endl;
+		cout << fibonacci(N,&memory) << endl;
 	}
 }
