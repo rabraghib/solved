@@ -20,6 +20,7 @@
 | [Azuz's anagram](arena/MOI21-Practice/Azuz-anagram.cpp) | Easy       | Simple Math / Sorting   | [arena.moi ➚](https://arena.moi/problem/gc4azuzanagram)      |
 **Easy**
 | [Loading ships](arena/Loading-ships.cpp)                | Easy       | Binary search           | [arena.moi ➚](https://arena.moi/problem/seed2)               |
+| [Wrong Subtraction](codeforces/Wrong-Subtraction.cpp)   | Easy       | Ad-Hoc                  | [codeforces ➚](https://codeforces.com/contest/977/problem/A) |
 | [Another string](arena/Another-string.cpp)              | Easy       | Strings                 | [arena.moi ➚](https://arena.moi/problem/mcpc18acestring)     |
 | [Longest increasing subsequence](arena/Dplessonlis.cpp) | Easy       | Dynamic programming     | [arena.moi ➚](https://arena.moi/problem/dplessonlis)         |
 | [Arrays](arena/Arrays.cpp)                              | Easy       | Ad-Hoc / Sorting        | [arena.moi ➚](https://arena.moi/problem/ncc20array)          |
