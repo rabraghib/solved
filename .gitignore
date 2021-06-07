@@ -1,6 +1,9 @@
 # Executables
 *.exe
 
+# Not solved problems
+onsolve
+
 # IDEs and editors
 /.idea
 .project
