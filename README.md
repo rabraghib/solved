@@ -6,10 +6,14 @@
 
 ## Problems
 
+<!--
+    Easiest - Easy - Medium - Difficult - Expert
+-->
 
-| Problem                            | Type          | Source           |
-| :--------------------------------- | :------------ | :-----------     |
-| [A Plus B](arena/A%20Plus%20B.cpp) | `Simple Math` | [arena](https://arena.moi/problem/aplusb)        |
+| Problem                                     | Difficulty | Type          | Source                                     |
+| :------------------------------------------ | :--------- | :------------ | :----------------------------------------- |
+| [A Plus B](arena/A%20Plus%20B.cpp)          | Easiest    | `Simple Math` | [arena](https://arena.moi/problem/aplusb)  |
+| [Longest Increasing Subsequence](arena/Longest%20Increasing%20Subsequence.cpp)| Easy | `Dynamic programming` | [arena](https://arena.moi/problem/dplessonlis) |
 
 ---
 
