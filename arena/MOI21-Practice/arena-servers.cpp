@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-    // https://arena.ioi.ma/problem/mdc1arenaservers
     int T;
     cin >> T;
     for (int i = 0; i < T; i++)
