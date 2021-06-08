@@ -38,6 +38,7 @@
 | [Play with Hicham](arena/Play-with-Hicham.cpp)          | Easy       | Ad-Hoc                  | [arena.moi ➚](https://arena.moi/problem/ncc20hicham)         |
 | [Stable Zeroing](arena/Stable-zeroing.cpp)              | Easy       | Simple Math             | [arena.moi ➚](https://arena.moi/problem/gc4stablezeroing)    |
 | [String operations](arena/String-operations.cpp)        | Easy       | Ad-Hoc                  | [arena.moi ➚](https://arena.moi/problem/round7operations)    |
+| [High school mathematics](arena/HSchool-mathematics.cpp)| Easy       | Math                    | [arena.moi ➚](https://arena.moi/problem/gc4highschoolmat)    |
 
 ---
 
