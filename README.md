@@ -18,6 +18,8 @@
 | [Last digit!](arena/MOI21-Practice/Last-digite.cpp)     | Easy       | Sorting / Math          | [arena.moi ➚](https://arena.moi/problem/gc4lastdigit)        |
 | [Acrobats](arena/MOI21-Practice/Acrobats.cpp)           | Easy       | Ad-Hoc                  | [arena.moi ➚](https://arena.moi/problem/moij2020acrobat)     |
 | [Azuz's anagram](arena/MOI21-Practice/Azuz-anagram.cpp) | Easy       | Simple Math / Sorting   | [arena.moi ➚](https://arena.moi/problem/gc4azuzanagram)      |
+**Medium**
+| [Wood factory](arena/Wood-factory.cpp) (*Can be better) | Medium     | Two pointers            | [arena.moi ➚](https://arena.moi/problem/round9carpentry)     |
 **Easy**
 | [Loading ships](arena/Loading-ships.cpp)                | Easy       | Binary search           | [arena.moi ➚](https://arena.moi/problem/seed2)               |
 | [Wrong Subtraction](codeforces/Wrong-Subtraction.cpp)   | Easy       | Ad-Hoc                  | [codeforces ➚](https://codeforces.com/contest/977/problem/A) |
@@ -38,7 +40,7 @@
 | [Play with Hicham](arena/Play-with-Hicham.cpp)          | Easy       | Ad-Hoc                  | [arena.moi ➚](https://arena.moi/problem/ncc20hicham)         |
 | [Stable Zeroing](arena/Stable-zeroing.cpp)              | Easy       | Simple Math             | [arena.moi ➚](https://arena.moi/problem/gc4stablezeroing)    |
 | [String operations](arena/String-operations.cpp)        | Easy       | Ad-Hoc                  | [arena.moi ➚](https://arena.moi/problem/round7operations)    |
-| [High school mathematics](arena/HSchool-mathematics.cpp)| Easy       | Math                    | [arena.moi ➚](https://arena.moi/problem/gc4highschoolmat)    |
+| [High school mathematics](arena/HSchool-maths.cpp)      | Easy       | Math                    | [arena.moi ➚](https://arena.moi/problem/gc4highschoolmat)    |
 
 ---
 
