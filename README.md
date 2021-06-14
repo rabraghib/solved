@@ -16,6 +16,7 @@
 | **Medium**                                                  |            |                       |                                                                             |
 | [Wood factory](arena/Wood-factory.cpp) (\*Can be better)    | Medium     | Two pointers          | [arena.moi ➚](https://arena.moi/problem/round9carpentry)                    |
 | **Easy**                                                    |            |                       |                                                                             |
+| [Repeated digits](arena/Repeated-Digits.cpp)                | Easy       | Ad-Hoc                | [arena ➚](https://arena.moi/problem/interviewrepeateddig)                   |
 | [Reverse a linked list](hackerrank/Reverse-linked-list.cpp) | Easy       | Linked Lists          | [HackerRank ➚](https://www.hackerrank.com/challenges/reverse-a-linked-list) |
 | [Loading ships](arena/Loading-ships.cpp)                    | Easy       | Binary search         | [arena.moi ➚](https://arena.moi/problem/seed2)                              |
 | [Arena servers](arena/MOI21-Practice/Arena-servers.cpp)     | Easy       | Ad-Hoc                | [arena.moi ➚](https://arena.moi/problem/mdc1arenaservers)                   |
@@ -41,12 +42,6 @@
 | [Stable Zeroing](arena/Stable-zeroing.cpp)                  | Easy       | Simple Math           | [arena.moi ➚](https://arena.moi/problem/gc4stablezeroing)                   |
 | [String operations](arena/String-operations.cpp)            | Easy       | Ad-Hoc                | [arena.moi ➚](https://arena.moi/problem/round7operations)                   |
 | [High school mathematics](arena/HSchool-maths.cpp)          | Easy       | Math                  | [arena.moi ➚](https://arena.moi/problem/gc4highschoolmat)                   |
-
----
-
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE)
 
 ---
 

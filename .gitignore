@@ -2,7 +2,7 @@
 *.exe
 
 # Not solved problems
-onsolve
+/onsolve
 
 # IDEs and editors
 /.idea
