@@ -12,7 +12,7 @@
 
 | Problem                                                     | Difficulty | Type                  | Source                                                                      |
 | :---------------------------------------------------------- | :--------- | :-------------------- | :-------------------------------------------------------------------------- |
-| [A Plus B](arena/A-plus-B.cpp)                              | For bots   | Simple Math           | [arena.moi ➚](https://arena.moi/problem/aplusb)                             |
+| [A Plus B](arena/A-plus-B.cpp)                              | For bots   | Captcha               | [arena.moi ➚](https://arena.moi/problem/aplusb)                             |
 | **Medium**                                                  |            |                       |                                                                             |
 | [Wood factory](arena/Wood-factory.cpp) (\*Can be better)    | Medium     | Two pointers          | [arena.moi ➚](https://arena.moi/problem/round9carpentry)                    |
 | **Easy**                                                    |            |                       |                                                                             |
