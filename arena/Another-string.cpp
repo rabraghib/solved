@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int T;
-    string X,Y;
+    string X, Y;
     cin >> T;
     for (int i = 0; i < T; i++)
     {

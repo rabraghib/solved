@@ -4,30 +4,31 @@ using namespace std;
 
 int main()
 {
-    bool othernumbs = false;
-    long long num;
-    int N,num_zeros = 0;
-    cin >> N;
-    for (int i = 0; i < N; i++)
+  bool othernumbs = false;
+  long long num;
+  int N, num_zeros = 0;
+  cin >> N;
+  for (int i = 0; i < N; i++)
+  {
+    othernumbs = true;
+    cin >> num;
+    if (num != 0)
     {
-        othernumbs = true;
-        cin >> num;
-        if (num != 0)
-        {
-            if (i > 0)
-                cout << "  ";
-            cout << num;
-        }
-        else {
-            num_zeros++;
-        }
+      if (i > 0)
+        cout << "  ";
+      cout << num;
     }
-    for (int i = 0; i < num_zeros; i++)
+    else
     {
-        if (i > 0 || othernumbs)
-            cout << "  ";
-        cout << "0";
+      num_zeros++;
     }
-    cout << endl;
-    return 0;
+  }
+  for (int i = 0; i < num_zeros; i++)
+  {
+    if (i > 0 || othernumbs)
+      cout << "  ";
+    cout << "0";
+  }
+  cout << endl;
+  return 0;
 }
