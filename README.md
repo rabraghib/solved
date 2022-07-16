@@ -2,11 +2,9 @@
 
 `Solved` is a rich collection of programming problems solutions, writing in c++ using Algorithms and Data Structures.
 
----
+## Solved Problems
 
-## Problems
-
-| Problem                                                            | Type                  | Source                                                                      |
+| <img width="1000000" height="0">                                   | Type                  | Source                                                                      |
 | :----------------------------------------------------------------- | :-------------------- | :-------------------------------------------------------------------------- |
 | [Wood factory](arena/Wood-factory.cpp) (\*Can be better)           | Two pointers          | [arena.moi ➚](https://arena.moi/problem/round9carpentry)                    |
 | [Welcome MOI 2022](arena/MOI22-Qualification/Welcome-MOI-2022.cpp) | MOI22 Qualification   | [arena.moi ➚](https://arena.moi/problems)                                   |
