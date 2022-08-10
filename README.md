@@ -1,6 +1,6 @@
 # Solved
 
-`Solved` is a rich collection of programming problems solutions, writing in c++ using Algorithms and Data Structures.
+Collection of programming problems solutions, writing in c++ using Algorithms and Data Structures.
 
 |                                                                    | Type                  | Source                                                                      |
 | :----------------------------------------------------------------- | :-------------------- | :-------------------------------------------------------------------------- |
