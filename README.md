@@ -35,7 +35,7 @@
 | [Stable Zeroing](arena/Stable-zeroing.cpp)                         | Simple Math           | [arena.moi ➚](https://arena.moi/problem/gc4stablezeroing)                   |
 | [String operations](arena/String-operations.cpp)                   | Ad-Hoc                | [arena.moi ➚](https://arena.moi/problem/round7operations)                   |
 | [High school mathematics](arena/HSchool-maths.cpp)                 | Math                  | [arena.moi ➚](https://arena.moi/problem/gc4highschoolmat)                   |
-| <img width="750" height="0">                               | <img width="250" height="0">  | <img width="150" height="0"> |
+| <img width="435" height="0">                               | <img width="175" height="0">  | <img width="120" height="0"> |
 
 <!-- Last empty row is to ensure each column take the appropriate space --->
 
