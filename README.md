@@ -5,6 +5,7 @@ Collection of programming problems solutions, writing in c++ using Algorithms an
 |                                                                    | Type                  | Source                                                                      |
 | :----------------------------------------------------------------- | :-------------------- | :-------------------------------------------------------------------------- |
 | [Wood factory](arena/Wood-factory.cpp) (\*Can be better)           | Two pointers          | [arena.moi ➚](https://arena.moi/problem/round9carpentry)                    |
+| [Snake](arena/Snake.cpp) (\*Trash solution.. but it works!)        |                       | [arena.moi ➚](https://arena.moi/problem/round5snake)                    |
 | [Welcome MOI 2022](arena/MOI22-Qualification/Welcome-MOI-2022.cpp) | MOI22 Qualification   | [arena.moi ➚](https://arena.moi/problems)                                   |
 | [File-system](arena/MOI22-Qualification/File-system.cpp)           | MOI22 Qualification   | [arena.moi ➚](https://arena.moi/problems)                                   |
 | [Repeated digits](arena/Repeated-Digits.cpp)                       | Ad-Hoc                | [arena.moi ➚](https://arena.moi/problem/interviewrepeateddig)               |
