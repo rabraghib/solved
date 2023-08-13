@@ -38,6 +38,20 @@ Collection of programming problems solutions, writing in c++ from different onli
 
 <!-- Last empty row is to ensure each column take the appropriate space --->
 
+# Running the code
+
+VsCode is the recommended IDE to run the code with. It's also configured to run the code in a DevContainer and has all the required tools and dependencies installed.
+
+Some useful commands:
+
+```bash
+# Compile and run the code
+g++ -g <file-name> -o <output-name> && ./<output-name>
+
+# Format the code
+clang-format -i -style="{BasedOnStyle: WebKit, BreakBeforeBraces: Attach}" <file-path>
+```
+
 ---
 
 <p align="center">Made with ❤️ by <a href="https://www.rabraghib.me">Rabyâ Raghib</a></p>
